@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Muhammad Furqony Sabililhaq (billy)
+Im currently studying computer science.
+
+Having interests on Software Engineering, Fullstack Development, and AI
+Enjoy doing competitive programming
+
 <!--
 **sabililhaq/sabililhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
