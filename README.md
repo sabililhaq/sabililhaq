@@ -1,7 +1,7 @@
 <h2 align="center">👋Hi!, I'm Muhammad Furqony Sabililhaq (billy)</h2>
-I'm a tech-enthusiastic computer science student with a deep interest in **Software Engineering, Data, and AI**.<br>
+I'm a tech-enthusiastic computer science student with a deep interest in Software Engineering, Data, and AI.<br>
 Currently studying Data Analysis, Machine Learning (Deep Learning focuses on Computer Vision and NLP), and Backend Engineering.<br>
-Enjoy doing **Competitive Programming**.
+Enjoy doing Competitive Programming.
 
 <br>
 
