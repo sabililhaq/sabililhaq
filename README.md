@@ -1,12 +1,16 @@
-### Hi there 👋
+<h2 align="center">👋Hi!, I'm Muhammad Furqony Sabililhaq (billy)</h2>
+I'm a tech-enthusiastic computer science student with a deep interest in **Software Engineering, Data, and AI**.<br>
+Currently studying Data Analysis, Machine Learning (Deep Learning focuses on Computer Vision and NLP), and Backend Engineering.<br>
+Enjoy doing **Competitive Programming**.
 
-My name is Muhammad Furqony Sabililhaq (billy)<br>
-Im currently studying computer science.
+<br>
 
-Having interests on **Software Engineering, Fullstack Development, and AI**.<br>
-Enjoy doing **Competitive Programming**.<br>
-<br><br>
-Reach me on my <a href="https://linkedin.com/in/sabililhaq/">LinkedIn</a>
+<br>
+Sometimes write on <a href="https://sabililhaq.medium.com">Medium</a><br>
+Reach me on my <a href="https://linkedin.com/in/sabililhaq/">LinkedIn</a><br>
+Checks out my code adventure: <a href="https://www.hackerrank.com/sabililhaqq">HackerRank</a><br>
+
+
 
 
 <!--
