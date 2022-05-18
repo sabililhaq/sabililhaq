@@ -8,7 +8,7 @@ Enjoy doing Competitive Programming.
 <br>
 Sometimes write on <a href="https://sabililhaq.medium.com">Medium</a><br>
 Reach me on my <a href="https://linkedin.com/in/sabililhaq/">LinkedIn</a><br>
-Checks out my code adventure: <a href="https://www.hackerrank.com/sabililhaqq">HackerRank</a><br>
+Checks out my code adventure: <a href="https://www.hackerrank.com/sabililhaqq">HackerRank</a> and <a href="https://leetcode.com/sabililhaq/">LeetCode</a><br>
 
 
 
